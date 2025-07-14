@@ -10,7 +10,7 @@
   },
   "keywords": ["pomodoro", "timer", "productivity", "terminal"],
   "author": "",
-  "license": "MIT",
+  "license": "GPL-2.0-only",
   "devDependencies": {
     "@types/node": "^20.0.0",
     "typescript": "^5.0.0",
