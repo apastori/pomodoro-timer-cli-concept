@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A terminal-based Pomodoro timer app",
   "main": "dist/index.js",
+   "bin": {
+    "pom-timer-concept": "dist/index.js"
+  },
   "scripts": {
     "build": "tsc && cpy src/assets/* dist/assets --parents",
     "start": "node dist/index.js",

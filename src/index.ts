@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { PomodoroTimer } from './PomodoroTimer';
 import { TerminalUI } from './TerminalUI';
 import type { PomodoroConfig } from './types/PomodoroConfig';
